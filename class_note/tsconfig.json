@@ -1,7 +1,0 @@
-{
-    "compilerOptions": {
-        "allowJs": true, // ts → js 許容
-        "checkJs": true, // type Check
-        "noImplicitAny": true // default any
-    }
-}
